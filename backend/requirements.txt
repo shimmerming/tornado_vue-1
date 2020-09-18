@@ -1,0 +1,8 @@
+tornado==5.0
+requests
+
+pymysql
+peewee
+
+redis
+
